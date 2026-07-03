@@ -2,7 +2,7 @@
 
 An interactive F1 car builder where users configure a virtual race car and receive real-time performance telemetry, powered by a fully serverless AWS backend.
 
-**[Live Demo →](d3hpqacv5c25zl.cloudfront.net)**
+**[Live Demo →](https://d3hpqacv5c25zl.cloudfront.net)**
 
 ## What it does
 
